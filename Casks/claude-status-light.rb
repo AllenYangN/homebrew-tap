@@ -1,6 +1,6 @@
 cask "claude-status-light" do
   version "0.2.1"
-  sha256 "6e6b5a423de2c3e3920d034bfd5669b72ce487407b57d0a7835812dae23cbe5f"
+  sha256 "1ac37d3df195b2e967a14eb50bdcff3f5c1f3868834692bdadbd5ba12585b5b9"
 
   url "https://github.com/AllenYangN/claude-status-light/releases/download/v#{version}/ClaudeStatusLight-#{version}.dmg"
   name "Claude Status Light"
